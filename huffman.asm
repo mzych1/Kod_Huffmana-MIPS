@@ -1,5 +1,6 @@
 #Projekt: kodowanie/dekodowanie Huffmanna
 #Autor: Magdalena Zych
+#Data: 04.2019
 .data
   .align 2
   characters: .word 0:256 #tablica 256 4-bajtowych slow zainicjowanych zerem - licznosci poszczegolnych znakow
